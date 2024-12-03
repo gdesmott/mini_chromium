@@ -11,6 +11,7 @@
 #include <limits>
 #include <sstream>
 #include <string>
+#include <cstdint>
 
 #include "base/check.h"
 #include "base/check_op.h"
